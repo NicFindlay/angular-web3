@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.w3m-toolbar-placeholder, .w3m-toolbar{
+    display: none !important;
+  }
+  
+
+  button{
+    padding: 12px 30px;
+    background: red;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+  }
