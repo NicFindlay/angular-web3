@@ -18,6 +18,13 @@
     "@angular/platform-browser": "^15.2.0",
     "@angular/platform-browser-dynamic": "^15.2.0",
     "@angular/router": "^15.2.0",
+    "@wagmi/core": "^0.10.10",
+    "@walletconnect/auth-client": "^2.0.7",
+    "@walletconnect/sign-client": "^2.7.0",
+    "@web3modal/ethereum": "^2.3.3",
+    "@web3modal/html": "^2.3.3",
+    "@web3modal/standalone": "^2.3.3",
+    "ethers": "^5.7.2",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
