@@ -1,6 +1,7 @@
 # AngularWeb3
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This project is a simple WalletConnect V2 implmentation in Angular with the Wagmi version.
+
 
 ## Development server
 
